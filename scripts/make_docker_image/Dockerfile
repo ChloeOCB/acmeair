@@ -1,4 +1,4 @@
-FROM swr.cn-north-1.myhuaweicloud.com/servicestage/openjdk:8-jre-alpine
+FROM 100.125.0.94:20202/ocb0001687ef9a/dockerhub-java:8-jre-alpine
 
 RUN mkdir -p /maven/acmeair/
 
